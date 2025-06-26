@@ -2,7 +2,7 @@
 
 ## Live URL
 
-You can view the live version of this project here: ["https://gleeful-caramel-4921ee.netlify.app/"]
+You can view the live version of this project here: ["https://moonlit-queijadas-a2d78f.netlify.app/"]
 
 ### 1. Work Locally
 
